@@ -1,5 +1,5 @@
 # GCReID
-Implementation of our [GCReID: Generalized continual person re-identification via meta learning and knowledge accumulation]([https://www.sciencedirect.com/science/article/pii/S089360802300045X](https://www.sciencedirect.com/science/article/pii/S0893608024004854)) in Neural Networks(2024) by Zhaoshuo Liu, Chaolu Feng, Kun Yu, Jun Hu and Jinzhu Yang.
+Implementation of our [GCReID: Generalized continual person re-identification via meta learning and knowledge accumulation](https://www.sciencedirect.com/science/article/pii/S0893608024004854) in Neural Networks(2024) by Zhaoshuo Liu, Chaolu Feng, Kun Yu, Jun Hu and Jinzhu Yang.
 
 # Install
 ## Enviornment
